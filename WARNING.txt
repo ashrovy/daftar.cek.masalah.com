@@ -1,0 +1,16 @@
+======================================================================================================
+FORM REGISTRASI MASIH TERLEWAT
+
+FORM REGISTRASI, TERDAPAT FORM DROPDOWN YG BLUM FIX
+PERLU DI BERIKAN TOOL TIPS UNTUK MENJADI LEBIH BAGUS [DATA SISWA]
+PEMBERITAHUAN SUKSES MASIH BLUM BISA
+======================================================================================================
+
+======================================================================================================
+EDIT DATA, perlu di edit juga pada table SISWA_KELAS & Analisis
+tampilan untuk chart pada siswa belum fix
+======================================================================================================
+
+======================================================================================================
+button di click berubah pada soal
+edit soal
