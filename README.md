@@ -1,8 +1,28 @@
+<<<<<<< HEAD
 <img src="icon.png" align="right" />
 # Daftar Cek Masalah [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > copyright ashrovy &copy; 2015
 Ini adalah salah satu implementasi *assassment* dari bimbingan konseling untuk membuat materi yang mata pelajaran di sekolah selama satu tahun ajaran.
 ## Latar Belakang
+=======
+
+<img src="icon.png" align="right" />
+
+# Daftar Cek Masalah [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> copyright ashrovy &copy; 2015
+
+​
+
+Ini adalah salah satu implementasi *assassment* dari bimbingan konseling untuk membuat materi yang mata pelajaran di sekolah selama satu tahun ajaran.
+
+​
+
+​
+
+## Latar Belakang
+
+>>>>>>> origin/master
 - Daftar Cek Masalah Siswa memiliki lebih dari 200 butir pertanyaan dengan pilihan biner (ya/tidak) untuk *setiap siswa* yang ada pada setiap sekolah.
 - Pelaksanaan yang biasa dilakukan oleh guru BK di Indonesia, setiap siswa diberikan beberapa lembar kemudian menjawab semua pertanyaan tersebut.
 - Alhasil, jika satu kelas terdapat 30 siswa sedangkan dalam satu angkatan terdapat 7 kelas maka sekitar 210 siswa yang harus dikumpulkan datanya kemudian di inputkan ke dalam excel
