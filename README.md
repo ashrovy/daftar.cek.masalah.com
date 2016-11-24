@@ -1,20 +1,20 @@
-1
+
 <img src="icon.png" align="right" />
-2
+
 # Daftar Cek Masalah [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-3
+
 > copyright ashrovy &copy; 2015
-4
+
 ​
-5
+
 Ini adalah salah satu implementasi *assassment* dari bimbingan konseling untuk membuat materi yang mata pelajaran di sekolah selama satu tahun ajaran.
-6
+
 ​
-7
+
 ​
-8
+
 ## Latar Belakang
-9
+
 - Daftar Cek Masalah Siswa memiliki lebih dari 200 butir pertanyaan dengan pilihan biner (ya/tidak) untuk *setiap siswa* yang ada pada setiap sekolah.
 10
 - Pelaksanaan yang biasa dilakukan oleh guru BK di Indonesia, setiap siswa diberikan beberapa lembar kemudian menjawab semua pertanyaan tersebut.
